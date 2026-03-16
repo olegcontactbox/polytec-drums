@@ -1,0 +1,44 @@
+# HISE Build artifacts
+Binaries/
+*.jucer
+
+# Compiled plugins
+*.vst3
+*.vst
+*.au
+*.aax
+*.component
+
+# Sample files (too large for git)
+Samples/
+AudioFiles/
+*.hr1
+*.ch1
+*.ch2
+
+# Samplemaps are XML and could be committed
+Samplemaps/
+
+# HISE temp files
+*.log
+*.tmp
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS / Xcode build artifacts
+*.suo
+*.user
+*.sln
+*.xcodeproj
+*.xcworkspace
+.vs/
+Debug/
+Release/
+x64/
