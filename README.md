@@ -2,6 +2,9 @@
 
 # Polytec Drum Machine VST (Windows Beta)
 
+<img width="960" height="556" alt="pdm-overview" src="https://github.com/user-attachments/assets/673e7b25-b424-45ee-a97c-81fa270d9a35" />
+
+
 ## AVAILABLE FOR FREE AT POLYTECLAB.COM
 
 A vintage-character drum machine plugin built with [HISE](https://hise.audio), featuring 8 independently controllable drum channels with deep sample selection and analog-inspired master processing.
