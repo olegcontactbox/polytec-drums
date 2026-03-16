@@ -1,5 +1,3 @@
-# polytec-drums
-
 # Polytec Drum Machine VST (Windows Beta)
 
 <img width="960" height="556" alt="pdm-overview" src="https://github.com/user-attachments/assets/673e7b25-b424-45ee-a97c-81fa270d9a35" />
